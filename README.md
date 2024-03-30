@@ -1,6 +1,6 @@
 # FDS project 21/22 - Heart Disease Prediction :anatomical_heart:
 
-This repository contains a project for the _Fundamentals of Data Science_  course for the accademic year 2021/2022.
+This repository contains the implementation of the final project for the _Fundamentals of Data Science_ course at Sapienza University of Rome, a.y. 2021/2022
 
 ### :bowling: Task 
 The goal of this project is predict if a patient is at risk for heart disease based on clinical data since the value for heart disease risk is binary (YES/NO).
