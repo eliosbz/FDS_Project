@@ -1,4 +1,4 @@
-# FDS project 21/22 - Heart Disease Prediction :anatomical_heart:
+# Fundamentals of Data Science project
 
 This repository contains the implementation of the final project for the _Fundamentals of Data Science_ course at Sapienza University of Rome, a.y. 2021/2022
 
